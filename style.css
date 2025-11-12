@@ -140,7 +140,8 @@ button {
     main {
         display: flex;
         width: 37.5rem;
-        margin-block: 10.625rem;
+        margin-block-end: 10rem;
+        margin-block-start: 11rem;
     }
 
     img {
@@ -169,5 +170,6 @@ button {
         display: flex;
         justify-content: center;
         gap: 1.4rem;
+        margin-block-end: 1rem;
     }
 }
